@@ -4,9 +4,11 @@ import webbrowser
 
 url_list = list()
 url_list = [
+"https://www.nw-siken.com/",
 "https://medium.com/",
 "https://www.vocabulary.com/",
-"https://www.codecademy.com/learn"
+"https://www.codecademy.com/learn",
+"http://overthewire.org/wargames/"
 
 ]
 
